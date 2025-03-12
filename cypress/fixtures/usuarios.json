@@ -1,0 +1,134 @@
+{
+  "usuarios": [
+    {
+      "name": "Stephen Strange",
+      "email": "stephen.strange@gmail.com",
+      "password": "Strange@2025!"
+    },
+    {
+      "name": "Wanda Maximoff",
+      "email": "wanda.maximoff@outlook.com",
+      "password": "ScarletWitch#2025"
+    },
+    {
+      "name": "Natasha Romanoff",
+      "email": "natasha.romanoff@contato.com",
+      "password": "BlackWidow@1234"
+    },
+    {
+      "name": "Tony Stark",
+      "email": "tony.stark@alura.com",
+      "password": "IronMan_2025!"
+    },
+    {
+      "name": "Bruce Banner",
+      "email": "bruce.banner@outlook.com",
+      "password": "HulkSmash@2025"
+    },
+    {
+      "name": "Clint Barton",
+      "email": "clint.barton@alura.com.br",
+      "password": "Hawkeye#2025"
+    },
+    {
+      "name": "T'Challa",
+      "email": "tchalla@contato.com",
+      "password": "BlackPanther@2025!"
+    },
+    {
+      "name": "Shuri",
+      "email": "shuri@outlook.com",
+      "password": "WakandaForever!21"
+    },
+    {
+      "name": "Peter Parker",
+      "email": "peter.parker@gmail.com",
+      "password": "Spidey#1234"
+    },
+    {
+      "name": "Sam Wilson",
+      "email": "sam.wilson@alura.com",
+      "password": "Falcon_2025!"
+    },
+    {
+      "name": "Bucky Barnes",
+      "email": "bucky.barnes@outlook.com",
+      "password": "WinterSoldier#2025"
+    },
+    {
+      "name": "Carol Danvers",
+      "email": "carol.danvers@alura.com.br",
+      "password": "CaptainMarvel_2025!"
+    },
+    {
+      "name": "Mantis",
+      "email": "mantis@contato.com",
+      "password": "Mantis#2025!"
+    },
+    {
+      "name": "Nebula",
+      "email": "nebula@alura.com",
+      "password": "Nebula@2025!"
+    },
+    {
+      "name": "Star-Lord",
+      "email": "star.lord@gmail.com",
+      "password": "StarLord@2025"
+    },
+    {
+      "name": "Valkyrie",
+      "email": "valkyrie@outlook.com",
+      "password": "Valkyrie_2025!"
+    },
+    {
+      "name": "Thor Odinson",
+      "email": "thor.odinson@contato.com",
+      "password": "Thor@2025!"
+    },
+    {
+      "name": "Loki",
+      "email": "loki@alura.com",
+      "password": "GodOfMischief_2025"
+    },
+    {
+      "name": "Hawkeye",
+      "email": "hawkeye@alura.com.br",
+      "password": "Hawkeye!123"
+    },
+    {
+      "name": "Doctor Doom",
+      "email": "doctor.doom@outlook.com",
+      "password": "Doom#2025!"
+    },
+    {
+      "name": "Mystique",
+      "email": "mystique@contato.com",
+      "password": "Mystique@2025"
+    },
+    {
+      "name": "Magneto",
+      "email": "magneto@alura.com",
+      "password": "Magneto#2025"
+    },
+    {
+      "name": "Cyclops",
+      "email": "cyclops@alura.com.br",
+      "password": "Cyclops2025!"
+    },
+    {
+      "name": "Jean Grey",
+      "email": "jean.grey@outlook.com",
+      "password": "Phoenix#2025"
+    },
+    {
+      "name": "Professor X",
+      "email": "professor.x@contato.com",
+      "password": "Xavier@2025!"
+    },
+    {
+      "name": "Storm",
+      "email": "storm@alura.com",
+      "password": "WeatherMaster@2025"
+    }
+  ]
+}
